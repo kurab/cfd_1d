@@ -1,0 +1,10 @@
+geo:
+  xl: 100.0 # length of calculation area
+
+calc:
+  ni: 1000 # number of iteration
+  dt: 0.01 # time delta
+  etime: 200.0 # calculation time
+
+flow:
+  c: 0.5 # flow velocity
